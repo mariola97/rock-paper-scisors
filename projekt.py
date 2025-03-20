@@ -15,7 +15,7 @@ while True:
     if((izborBota==1) and (izborKorisnika==2)):
         print("Izgubio si")
         scoreBota +=1
-    if(izborBota==1 and izborKorisnik1a==3):
+    if(izborBota==1 and izborKorisnika==3):
         print("Pobjedio si")
         scoreKorisnika += 1
     if(izborBota==2 and izborKorisnika==3):
